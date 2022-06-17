@@ -11,11 +11,11 @@ To visualize campaign outcomes based on the launch date and funding goals, while
 
 ### Analysis of Outcomes Based on Launch Date
 
-The outcomes of theater fundraising campaigns based on their launch date can be found here: ![Theater_Outcomes_vs_Launch](Kickstarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+The outcomes of theater fundraising campaigns based on their launch date can be found here: ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-The outcomes of theater fundraising campaigns based on their fundraising goals can be found here: ![Outcomes_vs_Goals](Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png)
+The outcomes of theater fundraising campaigns based on their fundraising goals can be found here: ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -23,18 +23,10 @@ Although they were not included in the final Excel file (as the referanced Succe
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
 The highest number of successful crowdfunding campaigns occur in May & June. Outside of the spike of successful campaigns in June, successful and failed campaigns tend to follow a similar path the rest of the year. 
-
-- What can you conclude about the Outcomes based on Goals?
 
 The percentage of succesful campaigns tends to correlate negatively with increasing goals. The percentage of failed campaigns tends to correlate positively with increasing goals. 
 
-- What are some limitations of this dataset?
-
 While the number of backers is known, there is little information on the demographics or breakdown of the doners. This information would help to target advertising or sharing of the campaign with people who might be likely to donate to it. Additionally, while the category and subcategory of each campaign is known, the strategy for advertising and sharing their campaign is not known. Information on where other campaigns are posted, advertised, and shared could aid Louise with targeting her campaign for her fundraiser. 
-
-- What are some other possible tables and/or graphs that we could create?
 
 In addidition to the Outcomes based on Launch Date graph, it would be possible to create a graph for percentage of outcomes based on launch date out of the relevant data set. In addition, while outcomes based on launch date was graphed, the information about how long the campaign went on for has still yet to be analyzed. It may be useful to know if longer campaigns provide doners with more opportunity to donate, or if drawing out fundraisers has a negative effect on their rate of success. By analyzing the difference between the start and end dates, as well as the rate of success, this information could be evaluated. 
